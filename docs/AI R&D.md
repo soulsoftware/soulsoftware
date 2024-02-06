@@ -8,9 +8,9 @@ Welcome to the AI Research and Development Group, a team of passionate and innov
 
 At Soulsoftware, we're dedicated to pushing the boundaries of artificial intelligence to create smarter, more efficient, and groundbreaking technologies. Our team of experts specializes in harnessing the power of AI to solve complex challenges and drive innovation across industries.
 
-### **Our Mission**
+### **The Mission**
 
-To lead the way in AI research and development, delivering cutting-edge solutions that empower businesses, enhance human capabilities, and build a sustainable future.
+Our mission is keeping up with the latest advances in AI to deliver cutting-edge solutions that empower businesses, enhance human capabilities providing organizations with tools and services that leverage safe and reliable AI applications
 
 ### **Why Soulsoftware?**
 
@@ -22,9 +22,6 @@ To lead the way in AI research and development, delivering cutting-edge solution
 
 Our group works on a wide range of topics around **Generative AI** capabilities, such as **natural language processing**, **computer vision**, **knowledge representation** and **reasoning**, **explainable AI (XAI)**, and **human-AI interaction**. We are exploring how apply our research to real-world scenarios and domains, such as healthcare, education, finance, e-commerce, etc...
 
-### **The Mission**
-
-Our mission is to keep up with the latest advances in AI, to provide organizations with tools and services that leverage safe and reliable AI applications
 
 ### **Contact Us**
 
