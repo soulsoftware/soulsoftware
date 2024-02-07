@@ -20,7 +20,7 @@ Our mission is keeping up with the latest advances in AI to deliver cutting-edge
 
 ### **Focus Areas**
 
-Our group works on a wide range of topics around **Generative AI** capabilities, such as **natural language processing**, **computer vision**, **knowledge representation** and **reasoning**, **explainable AI (XAI)**, and **human-AI interaction**. We are exploring how apply our research to real-world scenarios and domains, such as healthcare, education, finance, e-commerce, etc...
+Our group works on a wide range of topics around **Generative AI** capabilities, such as **natural language processing (NLP)**, **computer vision**, **knowledge representation** and **Reasoning and Action (ReAct)**, **explainable AI (XAI)**, and **human-AI interaction**. We are exploring how apply our research to real-world scenarios and domains, such as healthcare, education, finance, e-commerce, etc...
 
 
 ### **Contact Us**
